@@ -84,20 +84,29 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-  <a href="https://github.com/kodai0513/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodai0513&theme=tokyonight&background=130F40&ring=7A7ADB&fire=7A7ADB" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodai0513&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="kodai0513"/>
+<p align="left">
+  <a href="https://github.com/kodai0513/kodai0513/">
+    <img src="https://komarev.com/ghpvc/?username=kodai0513" alt="kodai0513" />
   </a>
-
-</div>
-
-<br>
-<br>
-<br>
-
------
+  <a href="http://twitter.com/kodai0513">
+    <img height="20" src="https://img.shields.io/twitter/follow/kodai0513?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/kodai0513">
+    <img height="20" src="https://img.shields.io/github/followers/kodai0513?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/kodai0513">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kodai0513?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/5720201/kodai0513">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="http://qiita.com/kodai0513">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kodai0513/posts.svg" />
+  </a>
+  <//qiita.com/kodai0513">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kodai0513/contributions.svg" />
+  </a>
+</p>
 
 <br>
 
